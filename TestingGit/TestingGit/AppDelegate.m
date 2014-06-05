@@ -15,6 +15,7 @@
     // Override point for customization after application launch.
     NSLog(@"First");
     NSLog(@"Second");
+    NSLog(@"Add from my mac");
     return YES;
 }
 							
