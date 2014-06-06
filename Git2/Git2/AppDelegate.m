@@ -16,6 +16,7 @@
     NSLog(@"Add from my mac");
     NSLog(@"Add from my VM mavericks");
     NSLog(@"Message");
+    NSLog(@"Next");
     return YES;
 }
 							
