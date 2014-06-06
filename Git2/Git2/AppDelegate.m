@@ -13,9 +13,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    NSLog(@"Giddy");
     NSLog(@"Add from my mac");
     NSLog(@"Add from my VM mavericks");
+    NSLog(@"Message");
     return YES;
 }
 							
