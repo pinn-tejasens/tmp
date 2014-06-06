@@ -21,8 +21,9 @@
     NSData *returnData = [NSURLConnection sendSynchronousRequest:request returningResponse:nil error:nil];
    //NSLog(@"returnData = %@",returnData);
     
-    
+  
     // Override point for customization after application launch.*/
+    NSLog(@"Add json to project");
     return YES;
 }
 							
