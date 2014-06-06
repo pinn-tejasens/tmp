@@ -14,7 +14,8 @@
 {
     // Override point for customization after application launch.
     NSLog(@"Giddy");
-    NSlog(@"Add from my mac");
+    NSLog(@"Add from my mac");
+    NSLog(@"Add from my VM mavericks");
     return YES;
 }
 							
